@@ -1,2 +1,2 @@
-Wellness Buddy Acceptance Test
+#Wellness Buddy Acceptance Test
 
