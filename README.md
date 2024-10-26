@@ -1,1 +1,2 @@
-# WB-Atest
+Wellness Buddy Acceptance Test
+
